@@ -1,0 +1,2 @@
+rootProject.name = "MoTrack"
+include ':app'
